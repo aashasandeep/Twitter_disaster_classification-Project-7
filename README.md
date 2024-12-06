@@ -34,11 +34,12 @@ Random Forests
 
 Evaluation
 Metrics used include:
-Accuracy
-Precision
-Recall
-F1-Score
-ROC-AUC
+Testing Dataset Performance:
+Accuracy: 0.7891705069124424
+Precision: 0.7619047619047619
+Recall: 0.713091922005571
+F1-score: 0.7366906474820144
+ROC AUC: 0.7779604993131981
 Requirements
 The project requires the following tools and libraries:
 Python (3.8+),
